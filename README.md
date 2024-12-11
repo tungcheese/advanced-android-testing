@@ -1,5 +1,8 @@
-TO-DO Notes - Code for 5.1-5.3 Testing Codelab
+(Deprecated) TO-DO Notes - Code for 5.1-5.3 Testing Codelab
 ============================================================================
+
+> [!CAUTION]
+> This codelab is deprecated and it will be removed soon.
 
 Code for the Advanced Android Kotlin Testing Codelab 5.1-5.3
 
