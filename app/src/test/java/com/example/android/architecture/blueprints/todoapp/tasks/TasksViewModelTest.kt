@@ -54,3 +54,7 @@ class TasksViewModelTest {
         assertThat(tasksViewModel.tasksAddViewVisible.getOrAwaitValue(), `is`(true))
     }
 }
+
+class InstantTaskExecutorRule {
+
+}
