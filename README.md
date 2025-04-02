@@ -1,10 +1,3 @@
-This repository contains sample code for testing an Android application using the MVVM architecture with ViewModel, LiveData, and Repository patterns. The focus is on unit testing and UI testing in the To-Do app.
-
-## Self Introduction
-
-Name: Nguyen Tuan Vu
-
-StudentID: 22110091
 
 ## Overview
 
